@@ -1,2 +1,2 @@
 # dataset-for-matrix
-This repository contains the original CSV file and prompt of my manuscript Distinguishing Human and Large Language Model Translation Styles in Classical Chinese Philosophy: A Machine Learning Approach 
+This repository contains the original dataset (in CSV format) supporting our manuscript: "Distinguishing Human and Large Language Model Translation Styles in Classical Chinese Philosophy: A Machine Learning Approach". This dataset comprises the extracted high-dimensional linguistic features and can be readily deployed to replicate the supervised classification and unsupervised clustering experiments reported in the paper.
